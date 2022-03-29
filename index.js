@@ -1,4 +1,4 @@
 const app = require('./src/server')
 
 
-app.listen(3001, () => console.log('servidor rodando na porta 3001'))
+app.listen(5000, () => console.log('servidor rodando na porta 5000'))
