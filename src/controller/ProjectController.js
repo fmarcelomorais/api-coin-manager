@@ -75,7 +75,7 @@ module.exports = class projectController{
             services
         } = req.body
 
-        const altProject ={
+        const altProject = {
             name,
             budget,
             category,
